@@ -91,6 +91,7 @@
 			<hr class="visible-xs visible-sm"/>
 		</div>
 
+<!-- IF false -->
 		<div class="col-md-5">
 			<div style="vertical-align:top;">
 				<form class='form-horizontal'>
@@ -130,6 +131,8 @@
 				</form>
 			</div>
 		</div>
+
+		<!-- ENDIF false -->
 	</div>
 
 	<!-- IMPORT partials/modals/change_picture_modal.tpl -->
