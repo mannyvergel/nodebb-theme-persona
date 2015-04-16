@@ -121,7 +121,7 @@
 					</li>
 					<!-- ENDIF allowRegistration -->
 					<li>
-						<a href="{relative_path}/login">
+						<a href="/auth/pesobility" onclick="window.location.href='/auth/pesobility'; return false;">
 							<i class="fa fa-sign-in visible-xs-inline"></i>
 							<span>[[global:login]]</span>
 						</a>
